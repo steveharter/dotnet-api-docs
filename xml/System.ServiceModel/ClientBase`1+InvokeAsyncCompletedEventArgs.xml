@@ -33,6 +33,7 @@
   </Base>
   <Interfaces />
   <Docs>
+    <typeparam name="TChannel">To be added.</typeparam>
     <summary>Stores the results from an asynchronous call made by the client.</summary>
     <remarks>To be added.</remarks>
   </Docs>

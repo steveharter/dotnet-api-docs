@@ -46,6 +46,7 @@
     </Attribute>
   </Attributes>
   <Docs>
+    <typeparam name="TResult">To be added.</typeparam>
     <summary>Provides an awaiter for an awaitable object(<see cref="T:System.Runtime.CompilerServices.ConfiguredTaskAwaitable`1" />).</summary>
     <remarks>
       <format type="text/markdown"><![CDATA[  

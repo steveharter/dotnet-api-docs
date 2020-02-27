@@ -34,6 +34,8 @@
     </Interface>
   </Interfaces>
   <Docs>
+    <typeparam name="TSourceElement">To be added.</typeparam>
+    <typeparam name="TTargetElement">To be added.</typeparam>
     <summary>To be added.</summary>
     <remarks>To be added.</remarks>
   </Docs>
@@ -194,7 +196,7 @@
       <MemberSignature Language="DocId" Value="P:Microsoft.Extensions.DiagnosticAdapter.Internal.ProxyEnumerable`2.ProxyEnumerator.System#Collections#IEnumerator#Current" />
       <MemberSignature Language="VB.NET" Value=" ReadOnly Property Current As Object Implements IEnumerator.Current" />
       <MemberSignature Language="C++ CLI" Value="property System::Object ^ System::Collections::IEnumerator::Current { System::Object ^ get(); };" />
-      <MemberSignature Language="F#" Usage="System.Collections.IEnumerator.Current" />
+      <MemberSignature Language="F#" Value="member this.System.Collections.IEnumerator.Current : obj" Usage="System.Collections.IEnumerator.Current" />
       <MemberType>Property</MemberType>
       <Implements>
         <InterfaceMember>P:System.Collections.IEnumerator.Current</InterfaceMember>

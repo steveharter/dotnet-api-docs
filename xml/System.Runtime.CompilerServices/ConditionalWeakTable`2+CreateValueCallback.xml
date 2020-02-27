@@ -45,6 +45,8 @@
     <ReturnType>TValue</ReturnType>
   </ReturnValue>
   <Docs>
+    <typeparam name="TKey">To be added.</typeparam>
+    <typeparam name="TValue">To be added.</typeparam>
     <param name="key">The key that belongs to the value to create.</param>
     <summary>Represents a method that creates a non-default value to add as part of a key/value pair to a <see cref="T:System.Runtime.CompilerServices.ConditionalWeakTable`2" /> object.</summary>
     <returns>An instance of a reference type that represents the value to attach to the specified key.</returns>

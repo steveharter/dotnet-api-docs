@@ -27,6 +27,7 @@
     <ReturnType>System.Boolean</ReturnType>
   </ReturnValue>
   <Docs>
+    <typeparam name="TResult">To be added.</typeparam>
     <param name="entry">A reference to the file system entry that will be evaluated with the predicate condition.</param>
     <summary>Encapsulates a method for filtering out find results.</summary>
     <returns>
