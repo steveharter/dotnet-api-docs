@@ -571,7 +571,7 @@ The `GetPinnableReference` method returns a [ref struct](~/docs/csharp/reference
       </Docs>
     </Member>
     <Member MemberName="Item">
-      <MemberSignature Language="C#" Value="public T this[int index] { get; }" />
+      <MemberSignature Language="C#" Value="public ref T this[int index] { get; }" />
       <MemberSignature Language="ILAsm" Value=".property instance !T Item(int32)" />
       <MemberSignature Language="DocId" Value="P:System.Span`1.Item(System.Int32)" />
       <MemberSignature Language="VB.NET" Value="Default Public ReadOnly Property Item(index As Integer) As T" />
